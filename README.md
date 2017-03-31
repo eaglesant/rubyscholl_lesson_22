@@ -1,2 +1,4 @@
-# rubyscholl, lesson 22
-repository for lesson_22
+sinatra-bootstrap-clean
+=======================
+
+Cleaned version of https://github.com/bootstrap-ruby/sinatra-bootstrap
